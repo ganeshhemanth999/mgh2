@@ -586,9 +586,10 @@ button {
     animation: pop1 6s linear;
   }
   .loadwish2 {
-    display: block;
-    font-size: 20vw;
-    top: 15rem;
+      display: block;
+    font-size: 32vw;
+    font-weight: 900;
+    top: 16rem;
   }
 
   @keyframes pop1 {
