@@ -705,6 +705,13 @@ button {
     .hwrap {
       overflow: hidden;
     }
+    
+    .loadwish2 {
+      display: block;
+      font-size: 32vw;
+      font-weight: 900;
+      top: 16rem;
+    }
     #menu {
       display: flex;
       flex-direction: column;
